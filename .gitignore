@@ -1,0 +1,13 @@
+# Firebase service account key
+capstone-carma-firebase-2.json
+
+capstone-carma-firebase-adminsdk-fbsvc-29b0dd1111.json
+# Env variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
